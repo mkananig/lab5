@@ -28,7 +28,15 @@ h1 {
     border: .2em solid white;
 }
 
-th, td {
+th {
+    border: .1em solid white;
+    color:white;
+    background-color: transparent;
+    height: 30%;
+    font-family: Times New Roman;
+}
+
+td {
     border: .1em solid white;
     color:white;
     background-color: transparent;
